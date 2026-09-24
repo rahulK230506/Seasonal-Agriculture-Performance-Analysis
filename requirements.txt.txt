@@ -1,0 +1,23 @@
+# ==================================================================
+# Requirements — Seasonal Agriculture Performance Data Analytics
+# ==================================================================
+# Install all dependencies with:
+#   pip install -r requirements.txt
+# ==================================================================
+
+# Data handling & numerical computation
+pandas             # Data loading, cleaning, aggregation, and analysis
+numpy              # Numerical operations and array computations
+
+# Data visualization
+matplotlib         # Base plotting library used for charts and figures
+seaborn            # Statistical visualization (histograms, bar plots, box plots, heatmaps, scatter plots)
+
+# Notebook environment
+jupyter            # Jupyter Notebook interface to run and view the .ipynb file
+ 
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
